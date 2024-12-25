@@ -35,4 +35,3 @@ plt.title("K-means Kümeleme")
 plt.legend()
 
 plt.show()
-  
